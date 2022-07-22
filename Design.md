@@ -1,5 +1,11 @@
 # IDP
 
+- [Single Responsibility](#single-responsibility)
+- [Open-Close Principe](#open-close-principe)
+- [Liskov](#liskov)
+- [Interface segregation](#interface-segregation)
+- [Dependency Inversion](#dependency-inversion)
+
 ## SOLID
 
 ### Single Responsibility
